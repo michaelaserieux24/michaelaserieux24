@@ -5,10 +5,14 @@
 How to contact me 
 Who am I collaborating with 
 I am looking for help with 
+[To DO]
+Other projects: 
+
+
 -->
 
 - 🌱 I’m currently learning how to code in Python!
-- 💻Supported by HyperionDev DfE CoGrammar Skills Bootcamp
+- 💻 Currently student on HyperionDev DfE CoGrammar Data Science Skills Bootcamp
   
 - 🔭 I’m currently working on Exploratory Data Analysis and Linear Regression Machine Learning models 😊
 - ⚡ Fun fact: *hiccup*
