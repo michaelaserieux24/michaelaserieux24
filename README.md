@@ -12,7 +12,7 @@ Other projects:
 -->
 
 - 🌱 I’m currently learning how to code in Python!
-- 💻 Currently student on HyperionDev DfE CoGrammar Data Science Skills Bootcamp
+- 💻 Currently a student on HyperionDev DfE CoGrammar Data Science Skills Bootcamp
   
 - 🔭 I’m currently working on Exploratory Data Analysis and Linear Regression Machine Learning models 😊
 - ⚡ Fun fact: *hiccup*
